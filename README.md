@@ -17,8 +17,8 @@ To write a program to predict the profit of a city using the linear regression m
 ```python
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: MANOGARAN S
-RegisterNumber:  212223240081
+Developed by: JASSIR SULTHAN K
+RegisterNumber:  212224240060
 */
 import numpy as np
 import pandas as pd
@@ -59,10 +59,11 @@ print(f"Predicted value: {pre}")
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/b8244b61-4e51-4736-94fc-0f99abfad575)
-![image](https://github.com/user-attachments/assets/6b8b6c3d-bb94-4c65-b503-6417bafdcecd)
-![image](https://github.com/user-attachments/assets/1673f9c9-ab4c-4f75-af1e-566185f0f7c1)
-![image](https://github.com/user-attachments/assets/d0d0a41b-e6cf-4350-b801-9f48e8af3064)
+![image](https://github.com/user-attachments/assets/e361f336-2baf-4dee-bb7c-8551c479f7c7)
+![image](https://github.com/user-attachments/assets/ccfba393-91c0-4e65-a409-66aca5608ec6)
+![image](https://github.com/user-attachments/assets/15dffb25-3d23-4c5b-b065-7063be0ec639)
+![image](https://github.com/user-attachments/assets/01d22675-a235-4c97-8c34-249fcefa1fb2)
+
 
 
 
