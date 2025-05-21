@@ -58,10 +58,8 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![alt text](<Screenshot 2024-03-05 182031.png>)
-![alt text](<Screenshot 2024-03-05 182404.png>)
-![alt text](<Screenshot 2024-03-05 182438.png>)
-![alt text](<Screenshot 2024-03-05 182447.png>)
+![image](https://github.com/user-attachments/assets/fab29237-9fd3-40a7-bb23-fc2485d4276a)
+![image](https://github.com/user-attachments/assets/f3afb1ab-96d6-4669-b85a-f779514afac9)
 
 
 ## Result:
